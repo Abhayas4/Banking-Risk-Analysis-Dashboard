@@ -16,6 +16,11 @@ It includes a complete risk analysis model to help identify high-risk customers 
 
 ---
 
+## 🔄 Data Flow
+Raw Data → SQL Cleaning → Power BI → Dashboard → Insights
+
+---
+
 ## 🧩 Data Modeling
 
 The project follows a relational data model:
@@ -26,6 +31,11 @@ The project follows a relational data model:
 
 Tables are connected using `customer_id` to enable cross-table analysis.
 
+---
+## ▶️ How to Use
+1. Download the .pbix file  
+2. Open in Power BI Desktop  
+3. Use slicers to explore customer segments
 ---
 
 ## 📊 Dashboard Pages
