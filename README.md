@@ -32,6 +32,15 @@ The project follows a relational data model:
 Tables are connected using `customer_id` to enable cross-table analysis.
 
 ---
+
+## 💼 Business Impact
+This dashboard helps banks:
+- Reduce loan defaults  
+- Improve approval strategies  
+- Identify high-risk customer segments  
+- Optimize loan exposure
+
+---
 ## ▶️ How to Use
 1. Download the .pbix file  
 2. Open in Power BI Desktop  
